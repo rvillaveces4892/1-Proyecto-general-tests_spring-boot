@@ -35,6 +35,7 @@ import com.jcraft.jsch.SftpException;
 /**
  * Nombre de clase = Sftp Descripci�n = Clase encarga de gestionar transacciones por el protocolo sftp
  * 
+ * @author rvillaveces
  * @version 1.0
  */
 public class BuzonSFTP{
