@@ -218,6 +218,14 @@ public class ProductController{
         return confEnvioObligadoService.getConfEnvioObligado();
     }
 
+    /**
+     * Servicio de creacion de configuraciones
+     * 
+     * @author rvillaveces
+     * @param dto
+     * @param ambiente
+     * @return
+     */
     @RequestMapping(value="/ceo/{ambiente}",method=RequestMethod.POST,consumes="application/json")
     public ResponseEntity<?> crear(@RequestBody List<ConfEnvioObliDto> dto,@PathVariable int ambiente){
         List<ConfEnvioObligadoId> id=new ArrayList<>();
