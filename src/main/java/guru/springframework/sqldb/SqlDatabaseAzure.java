@@ -1,4 +1,4 @@
-//package co.com.computec.sqldb;
+package guru.springframework.sqldb;
 //
 ////import java.sql.Connection;
 ////import java.sql.DriverManager;
@@ -6,7 +6,7 @@
 ////import java.sql.SQLException;
 ////import java.sql.Statement;
 //
-//public class SqlDatabaseAzure {
+public class SqlDatabaseAzure {
 //
 //	public static void main(String[] args) {
 //
@@ -56,4 +56,4 @@
 ////
 ////		}
 //	}
-//}
+}

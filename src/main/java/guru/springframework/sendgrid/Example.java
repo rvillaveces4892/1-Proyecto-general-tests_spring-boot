@@ -1,4 +1,4 @@
-//package co.com.computec.sendgrid;
+package guru.springframework.sendgrid;
 //
 //import com.sendgrid.*;
 //
@@ -8,7 +8,7 @@
 //
 //import org.apache.commons.codec.binary.Base64;
 //
-//public class Example {
+public class Example {
 //	public static void main(String[] args) throws IOException {
 ////		Email from = new Email("rvillaveces4892@gmail.com");
 ////		String subject = "Sending with SendGrid is Fun";
@@ -54,4 +54,4 @@
 //			throw ex;
 //		}
 //	}
-//}
+}

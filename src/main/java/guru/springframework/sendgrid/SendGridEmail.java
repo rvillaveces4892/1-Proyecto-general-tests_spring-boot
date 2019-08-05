@@ -1,4 +1,4 @@
-//package co.com.computec.sendgrid;
+package guru.springframework.sendgrid;
 //
 //import java.util.Properties;
 //
@@ -14,7 +14,7 @@
 //import javax.mail.internet.MimeMessage;
 //import javax.mail.internet.MimeMultipart;
 //
-//public class SendGridEmail {
+public class SendGridEmail {
 //	private static final String SMTP_HOST_NAME = "smtp.sendgrid.net";
 //	private static final String SMTP_AUTH_USER = "azure_fc905d1e074195f11ad84bb87494fc62@azure.com";
 //	private static final String SMTP_AUTH_PaWD = "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";
@@ -69,4 +69,4 @@
 //		   return new PasswordAuthentication(username, pssw);
 //		}
 //	}
-//}
+}

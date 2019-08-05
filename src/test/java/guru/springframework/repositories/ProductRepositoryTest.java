@@ -1,6 +1,5 @@
 package guru.springframework.repositories;
 
-import guru.springframework.domain.Product;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
